@@ -1,0 +1,10 @@
+Buổi 1: Introduction https://docs.google.com/presentation/d/1alCQEdOGojP3mMjMMtTQ2XcqEGLjisxn/edit#slide=id.p1
+Buổi 2: Html tags, basic CSS https://docs.google.com/presentation/d/1mjvdtlGMVzadcUdbUyWE67IGVFAKuPdW/edit#slide=id.p1
+Buổi 3: CSS box model & position https://docs.google.com/presentation/d/1QKXPItLHJTppn-dluKPzOtkNL6fzNLNA/edit#slide=id.p1
+Buổi 4: CSS display & layout https://docs.google.com/presentation/d/1OhBZh9UmosgrFexurfRXCUaaSV-Ffaw2/edit#slide=id.p1
+Buổi 5: Responsive & Bootstrap https://docs.google.com/presentation/d/1sgq-nBKlNJm55ZGRWFvGFCUig5PnlZiN/edit#slide=id.p1
+Buổi 6: Overview Javascript https://docs.google.com/presentation/d/142dKGz0FWdJiVHw-xo1ebXABkagj48aG/edit#slide=id.p1
+Buổi 7: Flow control & loop https://docs.google.com/presentation/d/1LZgZJJ9pRNDmo_r16j2g_pIUuXz2Jlbi/edit#slide=id.p1
+Buổi 8: Array https://docs.google.com/presentation/d/1EWoRPm3p3IDrEYxX2q9ShgxIX2AsnW96/edit#slide=id.p1
+Buổi 9: Object & function https://docs.google.com/presentation/d/1Nhj0HLvqta1nXh2C7o66dfYXvWD7bjwX/edit#slide=id.p1
+Buổi 10: Dom & Events https://docs.google.com/presentation/d/1x75h_J5acMUEJ8MWy0Tjq2tBi5Fz6pBs/edit#slide=id.p1
